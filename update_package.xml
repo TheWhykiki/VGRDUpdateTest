@@ -3,7 +3,7 @@
   <update>
     <name>VGRD Package Updates</name>
     <description>Some description</description>
-    <element>vgrd</element>
+    <element>pkg_vgrd</element>
     <client>0</client>
     <type>package</type>
     <version>1.0.1</version>
