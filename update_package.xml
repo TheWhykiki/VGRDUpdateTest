@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
   <update>
-    <name>VGRD Package Update</name>
+    <name>VGRD Package Updates</name>
     <description>Some description</description>
     <element>vgrd</element>
     <client>0</client>
