@@ -7,6 +7,22 @@
     <element>pkg_vgrd</element>
     <client>0</client>
     <type>package</type>
+    <version>1.0.3</version>
+    <downloads>
+      <downloadurl type="full" format="zip">https://github.com/TheWhykiki/VGRDUpdateTest/releases/download/1.0.3/pkg_vgrd_1.0.3.zip</downloadurl>
+    </downloads>
+    <tags>
+      <tag>stable</tag>
+    </tags>
+    <targetplatform name="joomla" version="4"/>
+  </update>
+  
+    <update>
+    <name>VGRD Package Updates</name>
+    <description>Some description</description>
+    <element>pkg_vgrd</element>
+    <client>0</client>
+    <type>package</type>
     <version>1.0.2</version>
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/TheWhykiki/VGRDUpdateTest/releases/download/1.0.2/pkg_vgrd_1.0.2.zip</downloadurl>
